@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/blockly-maze/static/css/main.ff89fb08.chunk.css",
-    "main.js": "/blockly-maze/static/js/main.31329e7a.chunk.js",
-    "main.js.map": "/blockly-maze/static/js/main.31329e7a.chunk.js.map",
+    "main.css": "/blockly-maze/static/css/main.08ffc424.chunk.css",
+    "main.js": "/blockly-maze/static/js/main.11534b0e.chunk.js",
+    "main.js.map": "/blockly-maze/static/js/main.11534b0e.chunk.js.map",
     "runtime-main.js": "/blockly-maze/static/js/runtime-main.db26593b.js",
     "runtime-main.js.map": "/blockly-maze/static/js/runtime-main.db26593b.js.map",
-    "static/js/2.8ddb78eb.chunk.js": "/blockly-maze/static/js/2.8ddb78eb.chunk.js",
-    "static/js/2.8ddb78eb.chunk.js.map": "/blockly-maze/static/js/2.8ddb78eb.chunk.js.map",
+    "static/js/2.36f258df.chunk.js": "/blockly-maze/static/js/2.36f258df.chunk.js",
+    "static/js/2.36f258df.chunk.js.map": "/blockly-maze/static/js/2.36f258df.chunk.js.map",
     "index.html": "/blockly-maze/index.html",
-    "static/css/main.ff89fb08.chunk.css.map": "/blockly-maze/static/css/main.ff89fb08.chunk.css.map",
-    "static/js/2.8ddb78eb.chunk.js.LICENSE.txt": "/blockly-maze/static/js/2.8ddb78eb.chunk.js.LICENSE.txt"
+    "static/css/main.08ffc424.chunk.css.map": "/blockly-maze/static/css/main.08ffc424.chunk.css.map",
+    "static/js/2.36f258df.chunk.js.LICENSE.txt": "/blockly-maze/static/js/2.36f258df.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.db26593b.js",
-    "static/js/2.8ddb78eb.chunk.js",
-    "static/css/main.ff89fb08.chunk.css",
-    "static/js/main.31329e7a.chunk.js"
+    "static/js/2.36f258df.chunk.js",
+    "static/css/main.08ffc424.chunk.css",
+    "static/js/main.11534b0e.chunk.js"
   ]
 }
