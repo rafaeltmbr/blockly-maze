@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "/blockly-maze/static/css/main.08ffc424.chunk.css",
-    "main.js": "/blockly-maze/static/js/main.0c844f19.chunk.js",
-    "main.js.map": "/blockly-maze/static/js/main.0c844f19.chunk.js.map",
+    "main.js": "/blockly-maze/static/js/main.aed7f302.chunk.js",
+    "main.js.map": "/blockly-maze/static/js/main.aed7f302.chunk.js.map",
     "runtime-main.js": "/blockly-maze/static/js/runtime-main.db26593b.js",
     "runtime-main.js.map": "/blockly-maze/static/js/runtime-main.db26593b.js.map",
-    "static/js/2.36f258df.chunk.js": "/blockly-maze/static/js/2.36f258df.chunk.js",
-    "static/js/2.36f258df.chunk.js.map": "/blockly-maze/static/js/2.36f258df.chunk.js.map",
+    "static/js/2.9c7b1409.chunk.js": "/blockly-maze/static/js/2.9c7b1409.chunk.js",
+    "static/js/2.9c7b1409.chunk.js.map": "/blockly-maze/static/js/2.9c7b1409.chunk.js.map",
     "index.html": "/blockly-maze/index.html",
-    "static/css/main.08ffc424.chunk.css.map": "/blockly-maze/static/css/main.08ffc424.chunk.css.map",
-    "static/js/2.36f258df.chunk.js.LICENSE.txt": "/blockly-maze/static/js/2.36f258df.chunk.js.LICENSE.txt"
+    "static/js/2.9c7b1409.chunk.js.LICENSE.txt": "/blockly-maze/static/js/2.9c7b1409.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.db26593b.js",
-    "static/js/2.36f258df.chunk.js",
-    "static/css/main.08ffc424.chunk.css",
-    "static/js/main.0c844f19.chunk.js"
+    "static/js/2.9c7b1409.chunk.js",
+    "static/js/main.aed7f302.chunk.js"
   ]
 }
